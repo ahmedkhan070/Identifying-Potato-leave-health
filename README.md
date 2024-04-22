@@ -85,7 +85,7 @@ Classifying potato images as either healthy or not is important for assessing cr
 
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [TensorFlow Documentation](https://www.tensorflow.org/)
-- [PyTorch Documentation](https://pytorch.org/)
+- [Codebasics Youtube Channel](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
 
 ## Conclusion
 
